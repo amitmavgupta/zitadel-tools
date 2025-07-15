@@ -36,7 +36,7 @@ zitadel-tools key2jwt --audience=https://zitadel.cloud --key=key.pem --issuer=cl
 
 ## basicauth
 
-Convert *client ID* and *client secret* to be used in *Authorization* header for [Client Secret Basic](https://docs.zitadel.com/docs/apis/openidoauth/authn-methods#client-secret-basic)
+Convert *client ID* and *client secret* to be used in *Authorization* header for [Client Secret Basic](https://zitadel.com/docs/apis/openidoauth/authn-methods#client-secret-basic)
 
 ### Usage
 
